@@ -1,0 +1,14 @@
+C:\Users\kavabang9\source\repos\Scanner-analyzer\bin\Debug\net10.0\Scanner-analyzer.exe
+C:\Users\kavabang9\source\repos\Scanner-analyzer\bin\Debug\net10.0\Scanner-analyzer.deps.json
+C:\Users\kavabang9\source\repos\Scanner-analyzer\bin\Debug\net10.0\Scanner-analyzer.runtimeconfig.json
+C:\Users\kavabang9\source\repos\Scanner-analyzer\bin\Debug\net10.0\Scanner-analyzer.dll
+C:\Users\kavabang9\source\repos\Scanner-analyzer\bin\Debug\net10.0\Scanner-analyzer.pdb
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.AssemblyInfoInputs.cache
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.AssemblyInfo.cs
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.csproj.CoreCompileInputs.cache
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.dll
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\refint\Scanner-analyzer.dll
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.pdb
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\Scanner-analyzer.genruntimeconfig.cache
+C:\Users\kavabang9\source\repos\Scanner-analyzer\obj\Debug\net10.0\ref\Scanner-analyzer.dll
