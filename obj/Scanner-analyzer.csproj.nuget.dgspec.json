@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kavabang9\\source\\repos\\Scanner-analyzer\\Scanner-analyzer.csproj": {}
+    "C:\\Users\\1\\source\\repos\\Scanner-analyzer-main\\Scanner-analyzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kavabang9\\source\\repos\\Scanner-analyzer\\Scanner-analyzer.csproj": {
+    "C:\\Users\\1\\source\\repos\\Scanner-analyzer-main\\Scanner-analyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kavabang9\\source\\repos\\Scanner-analyzer\\Scanner-analyzer.csproj",
+        "projectUniqueName": "C:\\Users\\1\\source\\repos\\Scanner-analyzer-main\\Scanner-analyzer.csproj",
         "projectName": "Scanner-analyzer",
-        "projectPath": "C:\\Users\\kavabang9\\source\\repos\\Scanner-analyzer\\Scanner-analyzer.csproj",
-        "packagesPath": "C:\\Users\\kavabang9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kavabang9\\source\\repos\\Scanner-analyzer\\obj\\",
+        "projectPath": "C:\\Users\\1\\source\\repos\\Scanner-analyzer-main\\Scanner-analyzer.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\source\\repos\\Scanner-analyzer-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kavabang9\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
