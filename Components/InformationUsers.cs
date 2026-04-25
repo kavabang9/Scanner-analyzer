@@ -18,11 +18,11 @@ namespace Scanner_analyzer.Components
 
                 if (IsAdmin)
                 {
-                    Message = "Программа запущена с правами администратора";
+                    Message = "\nПрограмма запущена с правами администратора";
                 }
                 else
                 {
-                    Message = "Программа НЕ запущена с правами администратора";
+                    Message = "\nПрограмма НЕ запущена с правами администратора";
                 }
             }
         }
@@ -30,7 +30,6 @@ namespace Scanner_analyzer.Components
         public void OutputInformation()
         {
             Console.WriteLine("Проверка прав администратора");
-
             Console.WriteLine(Message);
             Console.WriteLine();
         }

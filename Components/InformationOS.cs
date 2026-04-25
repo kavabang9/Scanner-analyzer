@@ -37,7 +37,6 @@
             Console.WriteLine($"\nОбщая информация о компьютере");
             Console.WriteLine($"\nПлатформа: {Name}");
             Console.WriteLine($"Версия: {Version}");
-            Console.WriteLine($"Разрядность: {Architecture}");
             Console.WriteLine($"Разрядность ОС: {architecture}");
         }
     }

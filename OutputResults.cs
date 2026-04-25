@@ -8,14 +8,20 @@ namespace Scanner_analyzer
         {
             Console.WriteLine("Сканер операционной системы");
 
-            InformationOS informationOS = new InformationOS();
-            informationOS.OutputInformation();
+            IMethods[] modules =
+            {
+                new InformationOS(),
+                new InformationNetwork(),
+                new InformationUsers(),
+                new InformationServices(),
+                new InformationEventLog()
+            };
 
-            InformationNetwork informationNetwork = new InformationNetwork();
-            informationNetwork.OutputInformation();
-
-            InformationUsers informationUsers = new InformationUsers();
-            informationUsers.OutputInformation();
+            foreach (var module in modules)
+            {
+                module.Collect();
+                module.OutputInformation();
+            }
         }
     }
 }
